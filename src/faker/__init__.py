@@ -6,3 +6,4 @@ from generators import name
 from generators import phone_number
 from generators import date
 from generators import pl_name
+from generators import pl_pesel
